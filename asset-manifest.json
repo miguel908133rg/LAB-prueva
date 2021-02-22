@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LAB-prueva/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/LAB-prueva/static/js/main.e9c50f3e.chunk.js",
+    "main.js.map": "/LAB-prueva/static/js/main.e9c50f3e.chunk.js.map",
+    "runtime-main.js": "/LAB-prueva/static/js/runtime-main.f819e890.js",
+    "runtime-main.js.map": "/LAB-prueva/static/js/runtime-main.f819e890.js.map",
+    "static/js/2.8e5c1659.chunk.js": "/LAB-prueva/static/js/2.8e5c1659.chunk.js",
+    "static/js/2.8e5c1659.chunk.js.map": "/LAB-prueva/static/js/2.8e5c1659.chunk.js.map",
+    "static/js/3.e67e1719.chunk.js": "/LAB-prueva/static/js/3.e67e1719.chunk.js",
+    "static/js/3.e67e1719.chunk.js.map": "/LAB-prueva/static/js/3.e67e1719.chunk.js.map",
+    "index.html": "/LAB-prueva/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/LAB-prueva/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8e5c1659.chunk.js.LICENSE.txt": "/LAB-prueva/static/js/2.8e5c1659.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/LAB-prueva/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f819e890.js",
+    "static/js/2.8e5c1659.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e9c50f3e.chunk.js"
+  ]
+}
